@@ -1,0 +1,8 @@
+{
+  "name": "xda-telegram",
+  "version": "0.0.1",
+  "dependencies": {
+    "algoliasearch": "^3.24.5",
+    "telebot": "^1.2.3"
+  }
+}
